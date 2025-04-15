@@ -33,6 +33,7 @@ A React application that generates Cistercian numerals based on a number input f
 ## Project Structure
 
 Cistercian-Numerals/
+
 ├── node_modules/ # Installed npm packages (do not include in git)
 
 ├── public/ # Public assets (index.html, etc.)
