@@ -34,11 +34,19 @@ A React application that generates Cistercian numerals based on a number input f
 
 Cistercian-Numerals/
 ├── node_modules/ # Installed npm packages (do not include in git)
+
 ├── public/ # Public assets (index.html, etc.)
+
 ├── src/
+
 │ ├── App.jsx # Main application component
+
 │ ├── App.css # Application-specific styles
+
 │ ├── main.jsx # Entry point of the application
+
 ├── .gitignore # Specifies files and folders to ignore in git
+
 ├── package.json # Project dependencies and scripts
+
 └── README.md # This file
