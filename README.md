@@ -24,7 +24,7 @@ A React application that generates Cistercian numerals based on a number input f
 2. **Install dependencies:**
 
    npm install
-   Or if you prefer yarn:
+   Or, if you prefer yarn:
    yarn install
 
 3. **Start the application:**
@@ -38,8 +38,7 @@ Cistercian-Numerals/
 ├── src/
 │ ├── App.jsx # Main application component
 │ ├── App.css # Application-specific styles
-│ ├── index.js (or main.jsx) # Entry point of the application
-│ └── ... # Additional components/assets if any
+│ ├── main.jsx # Entry point of the application
 ├── .gitignore # Specifies files and folders to ignore in git
 ├── package.json # Project dependencies and scripts
 └── README.md # This file
